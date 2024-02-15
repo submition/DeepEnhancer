@@ -3,7 +3,7 @@
 =======
 # DeepEnhancer: Temporally Consistent Focal Transformer for Comprehensive Video Enhancement
 
-https://user-images.githubusercontent.com/5800781/160990475-da5eff1d-adfe-47c6-a448-0ad035074e6b.mp4
+
 
 Create a folder ```./pretrained_models```
 ```
