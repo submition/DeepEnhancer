@@ -28,4 +28,4 @@ To restore the old films, please run
 CUDA_VISIBLE_DEVICES=0 python test_demo.py
 ```
 The restored results could be found in ```./visual_restore_results``` folder.
->>>>>>> fbe6753 (debug)
+
