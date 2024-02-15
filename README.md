@@ -1,6 +1,3 @@
-
-# DeepEnhancer
-=======
 # DeepEnhancer: Temporally Consistent Focal Transformer for Comprehensive Video Enhancement
 
 
