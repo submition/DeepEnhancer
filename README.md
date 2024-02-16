@@ -1,6 +1,6 @@
 # DeepEnhancer: Temporally Consistent Focal Transformer for Comprehensive Video Enhancement
 
-https://github.com/submition/DeepEnhancer/issues/1#issue-2136873242
+https://github.com/submition/DeepEnhancer/assets/160112990/d2c4dd8c-2f46-4cfd-96a4-210718bc3027
 
 Create a folder ```./pretrained_models```
 ```
