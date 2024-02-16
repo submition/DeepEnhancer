@@ -20,7 +20,8 @@ To train a model, remember to modify the config file following the example ```co
 
 ### Test
 
-We provide the [pre-trained models]()
+We provide the [pre-trained models](link：https://pan.baidu.com/s/1S5132HNEAsTGB1cQuPeuYQ 
+code：dhcm)
 
 
 To restore the old films, please run
